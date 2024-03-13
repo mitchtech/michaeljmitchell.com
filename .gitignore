@@ -1,8 +1,17 @@
-# Hugo default output directory
-/public
- .hugo_build.lock
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 
-## OS Files
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary lock file while building
+/.hugo_build.lock
+
 # Windows
 Thumbs.db
 ehthumbs.db
