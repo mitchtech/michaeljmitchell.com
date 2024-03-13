@@ -1,15 +1,12 @@
 baseurl = "https://michaeljmitchell.com"
+title = "Michael J. Mitchell, Ph.D."
+
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
-
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-
-author = "Michael J. Mitchell, Ph.D."
-title = "Michael J. Mitchell, Ph.D."
-
 theme = "goa"
 
 ## Hugo Built-in Features
@@ -115,4 +112,4 @@ displayrssicon = true
     name = "resume"
     identifier = "resume"
     weight = 700
-    url = "https://www.dropbox.com/s/peyfb5e659s3ixc/Michael_J_Mitchell_Resume.pdf?dl=1"
+    url = "/michael_mitchell_resume.pdf"
