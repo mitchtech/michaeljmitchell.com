@@ -10,7 +10,7 @@ publishdir = "public"
 author = "Michael J. Mitchell, Ph.D."
 title = "Michael J. Mitchell, Ph.D."
 
-theme = "hugo-goa"
+theme = "goa"
 
 ## Hugo Built-in Features
 #disqusShortname = "https-michaeljmitchellcom"
