@@ -1,17 +1,12 @@
 +++
-categories = []
-tags = []
-slug = ""
-comments = false
-date = "2017-01-21T17:53:46-08:00"
-title = "Awards & Certifications"
-showpagemeta = true
-showcomments = true
-draft = true
-#description = ""
-
+title = 'Awards & Certifications'
+date = 2017-01-21T17:53:46-08:00
+draft = false
 +++
 
+* FAA Part 107 Commercial Drone Pilot.
+* Certified Information Systems Security Professional, (CISSP).
+* Elasticsearch Business Transformation Award, 2019.
 * T-Mobile Enterprise IT Self Service VIP, 2016.
 * Certified NSTISSI‐4011, National Training Standard for Information Systems Security Professionals.
 * Certified CNSSI‐4014, Information Assurance Training Standard for Information Systems Security Officers.

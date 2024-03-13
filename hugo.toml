@@ -1,0 +1,118 @@
+baseurl = "https://michaeljmitchell.com"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Michael J. Mitchell, Ph.D."
+title = "Michael J. Mitchell, Ph.D."
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-michaeljmitchellcom"
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Michael J. Mitchell, Ph.D."
+intro = "Software Engineering & Architecture | Tech Leadership | 22+ Patents"
+description = "Co-founder of [CX Lab](https://cxlab.tmo.io) & Member of Technical Staff (MTS) [@T-Mobile](https://t-mobile.com). Tech blog [@mitchtech.net](http://mitchtech.net). Previously, [@Mobile Lab](http://mobile.cs.fsu.edu) & [@OS/security](https://www.cs.fsu.edu/) research [@FSU](https://fsu.edu/)."
+authorimage = "headshot.jpg"
+dateformat = "Jan 1, 2024"
+
+## Site Meta Settings
+[params.meta]
+description = "Personal Website for Michael J. Mitchell"
+keywords = "developer,engineer,scientist,hacker,maker"
+
+## Social Accounts
+[params.social]
+github = "mitchtech"
+linkedin = "mikmitch"
+twitter = "michaeljmitchel"
+youtube = "mitchtechnet"
+email = "michael@mitchtech.net"
+#stackoverflow = "1454615"
+#instagram = "<username>"
+#xing = "<username>"
+#facebook = "<username>"
+#google = "<username>"
+#googlescholar = "<account_id>"
+#orcid = "0123-4567-8901-2345"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "<username>"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+#hackernews = "<username>"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#strava = "<username>"
+#skype = "<username>"
+#telegram = "<username>"
+#whatsapp = "<username>"
+#buymeacoffee = "<username>"
+#kaggle = "<username>"
+#holopin = "<username>"
+#pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "© 2024 Michael J. Mitchell"
+poweredby = false
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 100
+    url = "/about/"
+[[menu.main]]
+    name = "patents"
+    identifier = "patents"
+    weight = 200
+    url = "/patents/"
+[[menu.main]]
+    name = "blog"
+    weight = 300
+    identifier = "blog"
+    url = "http://mitchtech.net"
+[[menu.main]]
+    name = "code"
+    weight = 400
+    identifier = "code"
+    url = "https://github.com/mitchtech"
+[[menu.main]]
+    name = "publications"
+    identifier = "publications"
+    weight = 500
+    url = "/publications/"
+#[[menu.main]]
+#    name = "projects"
+#    identifier = "projects"
+#    weight = 600
+#    url = "/projects/"
+[[menu.main]]
+    name = "resume"
+    identifier = "resume"
+    weight = 700
+    url = "https://www.dropbox.com/s/peyfb5e659s3ixc/Michael_J_Mitchell_Resume.pdf?dl=1"

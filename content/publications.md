@@ -1,15 +1,7 @@
 +++
-categories = []
-tags = []
-slug = ""
-comments = false
-date = "2017-01-21T17:53:46-08:00"
-title = "Publications"
-showpagemeta = true
-showcomments = true
+title = 'Publications'
+date = 2017-01-21T17:53:46-08:00
 draft = false
-#description = ""
-
 +++
 
 **Cashtags: Protecting The Input And Display Of Sensitive Data.**

@@ -1,15 +1,7 @@
 +++
-date = "2017-01-21T17:53:46-08:00"
-showpagemeta = true
-slug = ""
-comments = false
-title = "Projects"
-draft = true
-showcomments = true
-categories = []
-tags = []
-#description = ""
-
+title = 'Projects'
+date = 2017-01-21T17:53:46-08:00
+draft = false
 +++
 
 **Cashtags**: Designed and implemented Android-based mobile security system to provide secure input and prevent sensitive data leaks.
@@ -56,14 +48,3 @@ tags = []
 * Lead team of Android and Linux developers and collaborated on multiple software and hardware start‐up ventures.
 * Authored over 100 technical articles and tutorials, many featured in popular technical periodicals.
 * Developed and published over 50 open source software development projects.
-
-
-
-
-
-
-
-
-
-
-
