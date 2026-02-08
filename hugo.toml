@@ -1,12 +1,12 @@
 baseurl = "https://michaeljmitchell.com"
 title = "Michael J. Mitchell, Ph.D."
 
-builddrafts = false
-canonifyurls = false
+buildDrafts = false
+canonifyURLs = false
 languageCode = "en-US"
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
 theme = "goa"
 
 ## Hugo Built-in Features
@@ -20,7 +20,7 @@ author = "Michael J. Mitchell, Ph.D."
 intro = "Software Engineering & Architecture | Tech Leadership | 22+ Patents"
 description = "Co-founder of [CX Lab](https://cxlab.tmo.io) & Member of Technical Staff (MTS) [@T-Mobile](https://t-mobile.com). Tech blog [@mitchtech.net](http://mitchtech.net). Previously, [@Mobile Lab](http://mobile.cs.fsu.edu) & [@OS/security](https://www.cs.fsu.edu/) research [@FSU](https://fsu.edu/)."
 authorimage = "headshot.jpg"
-dateformat = "Jan 1, 2024"
+dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
@@ -70,7 +70,7 @@ email = "michael@mitchtech.net"
 
 ## Extras
 [params.extra]
-copyright = "© 2024 Michael J. Mitchell"
+copyright = "© 2026 Michael J. Mitchell"
 poweredby = false
 highlightjs = true
 socialmarkup = true
