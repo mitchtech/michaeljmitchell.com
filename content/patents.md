@@ -2,128 +2,164 @@
 title = 'Patents'
 date = 2024-02-07T17:53:46-08:00
 draft = false
+showpagemeta = false
 +++
 
-**System and method of monitoring resilience and safety of electronic devices during testing**
-*US 11716413B2 · Issued Sep 12, 2023*
-See patent
+<!-- Last updated: 2026-03-28. Source: ~/patents/patents.xlsx -->
 
-**Targeted message validation for mobile devices**
-*US 11601828B2 · Issued Mar 7, 2023*
-See patent
+I am a named inventor on 33+ granted US patents and hold 14 additional published pending applications. The portfolio spans software testing, telecommunications, AI/ML, human-computer interaction, security, and sensor systems. Granted patents are organized by domain below.
 
-**Performance profiler of third party automations**
-*US 20230053592A1 · Issued Feb 23, 2023*
-See patent
+## Software Testing & Automation
 
-**Managing local application connectivity in a multi-network environment**
-*US 11758460B1 · Issued Sep 12, 2022*
-See patent
+[**Application-Level Quality of Service Testing System**](https://patents.google.com/patent/US9843943/en)
+*US 9,843,943*
 
-**Suitability metrics based on environmental sensor data**
-*US 20220284026A1 · Issued Sep 8, 2022*
-See patent
+[**Context-Based Device Testing**](https://patents.google.com/patent/US10521335/en)
+*US 10,521,335*
 
-**Verifying meeting attendance via a meeting expense and verification controller**
-*US 20220270055A1 · Issued Aug 25, 2022*
-See patent
+[**Device-Based Diagnostic Network Testing**](https://patents.google.com/patent/US10616781/en)
+*US 10,616,781*
 
-**Inferring meeting expense via a meeting expense and verification controller**
-*US 20220270054A1 · Issued Aug 25, 2022*
-See patent
+[**Continuous Integration Testing for Network-Based Applications**](https://patents.google.com/patent/US10664388/en)
+*US 10,664,388*
 
-**Dynamic operation parameter optimization and modulation of a wireless network**
-*US 20220256474A1 · Issued Aug 11, 2022*
-See patent
+[**Systems and Methods for Testing Power Consumption of Electronic Devices**](https://patents.google.com/patent/US10820274/en)
+*US 10,820,274*
 
-**Adaptive automated testing methods and systems**
-*US 20220171695A1 · Issued Jun 2, 2022*
-See patent
+[**Adaptive Software Testing**](https://patents.google.com/patent/US10846206/en)
+*US 10,846,206*
 
-**Mobile device testing based on user class**
-*US 11290907B1 · Issued Mar 29, 2022*
-See patent
+[**Mobile Device Testing Based on User Class**](https://patents.google.com/patent/US11290907/en)
+*US 11,290,907*
 
-**ESIM switching platform**
-*US 11129026B1 · Issued Sep 21, 2021*
-See patent
+[**System and Method of Monitoring Resilience and Safety of Electronic Devices During Testing**](https://patents.google.com/patent/US11716413/en)
+*US 11,716,413*
 
-**Adaptive software testing**
-*US 10846206B2 · Issued Nov 24, 2020*
-See patent
+[**Using Machine Learning to Optimize Wireless Carrier System Testing**](https://patents.google.com/patent/US11812290/en)
+*US 11,812,290*
 
-**Echolocate spectrum analyzer**
-*US 10827168B2 · Issued Nov 3, 2020*
-See patent
+[**Adaptive Automated Testing Methods and Systems**](https://patents.google.com/patent/US11841790/en)
+*US 11,841,790*
 
-**Systems and methods for testing power consumption of electronic devices**
-*US 10820274B2 · Issued Oct 27, 2020*
-See patent
+## Network & Telecommunications
 
-**Device-based diagnostic network testing**
-*US 10616781B2 · Issued Apr 7, 2020*
-See patent
+[**Distributed Testing of Wireless Networks**](https://patents.google.com/patent/US10382922/en)
+*US 10,382,922*
 
-**Context-based device testing**
-*US 10521335B2 · Issued Dec 31, 2019*
-See patent
+[**Cellular Base Station Monitoring**](https://patents.google.com/patent/US10397815/en)
+*US 10,397,815*
 
-**Voice user interface for data access control**
-*US 10496363B2 · Issued Dec 3, 2019*
-See patent
+[**Local Monitoring of Cellular Base Stations**](https://patents.google.com/patent/US10440597/en)
+*US 10,440,597*
 
-**Local monitoring of cellular base stations**
-*US 10440597B2 · Issued Oct 8, 2019*
-See patent
+[**Indoor/Outdoor Coverage Detection Based on Sensor Inputs**](https://patents.google.com/patent/US10506372/en)
+*US 10,506,372*
 
-**Application testing on multiple device types**
-*US 20190227909A1 · Issued Jul 25, 2019*
-See patent
+[**Echolocate Spectrum Analyzer**](https://patents.google.com/patent/US10827168/en)
+*US 10,827,168*
 
-**Cellular base station monitoring**
-*US 20190230531A1 · Issued Jul 25, 2019*
-See patent
+[**eSIM Switching Platform**](https://patents.google.com/patent/US11129026/en)
+*US 11,129,026*
 
-**Voice user interface for device and component control**
-*US 10334415B2 · Issued Jun 25, 2019*
-See patent
+[**Dynamic Operation Parameter Optimization and Modulation of a Wireless Network**](https://patents.google.com/patent/US11706719/en)
+*US 11,706,719*
 
-**Honeypot adaptive security system**
-*US 20190190951A1 · Issued Jun 20, 2019*
-See patent
+## AI & Machine Learning
 
-**Continuous integration testing for network-based applications**
-*US 20180365133A1 · Issued Dec 20, 2018*
-See patent
+[**Targeted Message Validation for Mobile Devices**](https://patents.google.com/patent/US11601828/en)
+*US 11,601,828*
 
-**Distributed testing of wireless networks**
-*US 20180367940A1 · Issued Dec 20, 2018*
-See patent
+[**Generating Encoded Text Based on Spoken Utterances Using Machine Learning Systems and Methods**](https://patents.google.com/patent/US11880645/en)
+*US 11,880,645*
 
-**Application-level quality of service testing system**
-*US 9843943B1 · Issued Dec 12, 2018*
-See patent
+[**Generating Encoded Text Based on Spoken Utterances Using Machine Learning Systems and Methods**](https://patents.google.com/patent/US12248748/en)
+*US 12,248,748 (continuation of US 11,880,645)*
 
-**Remote access of cellular communication devices for software development and testing**
-*US 20180124150A1 · Issued May 3, 2018*
-See patent
+[**Notification System with Emotion-Inciting Image Generator**](https://patents.google.com/patent/US12518439B2/en)
+*US 12,518,439*
 
-**Mapping of user interfaces within applications**
-*US 20180088970A1 · Issued Mar 29, 2018*
-See patent
+## Human-Computer Interaction
 
-**Systems and methods for improved uptime for network devices**
-*US 20180062815A1 · Issued Mar 1, 2018*
-See patent
+[**Voice User Interface for Device and Component Control**](https://patents.google.com/patent/US10334415/en)
+*US 10,334,415*
 
-**Indoor/outdoor coverage detection based on sensor inputs**
-*US 20170366943A1 · Issued Dec 21, 2017*
-See patent
+[**Voice User Interface for Data Access Control**](https://patents.google.com/patent/US10496363/en)
+*US 10,496,363*
 
-**Obfuscation of sensitive human-perceptual output**
-*US 10025952B1 · Issued Jul 17, 2017*
-See patent
+[**Caching System for Presenting Dashboard Snapshots with Quick Response Access to Live Dashboard Data**](https://patents.google.com/patent/US12326912/en)
+*US 12,326,912*
 
-**Using machine learning to optimize wireless carrier system testing**
-*US 20230199530A1 · Filed Jun 22, 2023*
-See patent
+[**Platform-Agnostic Videoconference Metacommunication System**](https://patents.google.com/patent/US12568189/en)
+*US 12,568,189*
+
+## Security, Sensors & Infrastructure
+
+[**Obfuscation of Sensitive Human-Perceptual Output**](https://patents.google.com/patent/US10025952/en)
+*US 10,025,952*
+
+[**Systems and Methods for Improved Uptime for Network Devices**](https://patents.google.com/patent/US10623166/en)
+*US 10,623,166*
+
+[**Honeypot Adaptive Security System**](https://patents.google.com/patent/US11075946/en)
+*US 11,075,946*
+
+[**Managing Local Application Connectivity in a Multi-Network Environment**](https://patents.google.com/patent/US11758460/en)
+*US 11,758,460*
+
+[**Systems and Methods for Improved Uptime for Network Devices**](https://patents.google.com/patent/US11848889/en)
+*US 11,848,889 (continuation of US 10,623,166)*
+
+[**Inferring Meeting Expense via a Meeting Expense and Verification Controller**](https://patents.google.com/patent/US12229730/en)
+*US 12,229,730*
+
+[**Biometric Sensors for Enhanced Detection, Stimulation, and Notification**](https://patents.google.com/patent/US12402845/en)
+*US 12,402,845*
+
+[**Suitability Metrics Based on Environmental Sensor Data**](https://patents.google.com/patent/US12461923B2/en)
+*US 12,461,923*
+
+## Pending Applications
+
+The following applications have been published but are awaiting examination.
+
+[**Mapping of User Interfaces Within Applications**](https://patents.google.com/patent/US20180088970A1/en)
+*US 2018/0088970 A1*
+
+[**Application Testing on Multiple Device Types**](https://patents.google.com/patent/US20190227909A1/en)
+*US 2019/0227909 A1*
+
+[**Verifying Meeting Attendance via a Meeting Expense and Verification Controller**](https://patents.google.com/patent/US20220270055A1/en)
+*US 2022/0270055 A1*
+
+[**Performance Profiler of Third Party Automations**](https://patents.google.com/patent/US20230053592A1/en)
+*US 2023/0053592 A1*
+
+[**Targeted Message Validation for Mobile Devices**](https://patents.google.com/patent/US20230180030A1/en)
+*US 2023/0180030 A1*
+
+[**Video Content Personalization Based on Viewer Data**](https://patents.google.com/patent/US20240073486A1/en)
+*US 2024/0073486 A1*
+
+[**Customized Image Generation**](https://patents.google.com/patent/US20240311873A1/en)
+*US 2024/0311873 A1*
+
+[**Physical State Change Authentication Methods**](https://patents.google.com/patent/US20240370539A1/en)
+*US 2024/0370539 A1*
+
+[**Preemptive Caching Action Based on End-User Cues**](https://patents.google.com/patent/US20240388645A1/en)
+*US 2024/0388645 A1*
+
+[**Ethanol Sensors for Location-Based User Device Triggers**](https://patents.google.com/patent/US20240418692A1/en)
+*US 2024/0418692 A1*
+
+[**Out-of-Band Signaling for Location-Based User Device Triggers**](https://patents.google.com/patent/US20240421916A1/en)
+*US 2024/0421916 A1*
+
+[**Fine-Tuning Images Generated by Artificial Intelligence Based on Aesthetic and Accuracy Metrics and Systems and Methods for the Same**](https://patents.google.com/patent/US20250022185A1/en)
+*US 2025/0022185 A1*
+
+[**Generating Encoded Text Based on Spoken Utterances Using Machine Learning Systems and Methods**](https://patents.google.com/patent/US20250190686A1/en)
+*US 2025/0190686 A1*
+
+[**Biometric Sensors for Enhanced Detection, Stimulation, and Notification**](https://patents.google.com/patent/US20250359828A1/en)
+*US 2025/0359828 A1*

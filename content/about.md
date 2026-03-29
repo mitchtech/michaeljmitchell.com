@@ -4,7 +4,7 @@ date = 2017-01-21T17:53:46-08:00
 draft = false
 +++
 
-Hello! I'm an experienced Software Engineer, Architect, and Technical Leader with a passion for innovation. With a PhD in Computer Science and as an inventor on over 22 US patents, I've been deeply involved in shaping innovative tech solutions. At T-Mobile, I co-founded the CX Lab and served as Tech Lead and Member of Technical Staff, blending technical expertise, research, and practical customer-centric solutions.
+Hello! I'm an experienced Software Engineer, Architect, and Technical Leader with a passion for innovation. With a PhD in Computer Science and as an inventor on 33+ US patents, I've been deeply involved in shaping innovative tech solutions. At T-Mobile, I co-founded the CX Lab and served as Tech Lead and Member of Technical Staff, blending technical expertise, research, and practical customer-centric solutions.
 
 Key Highlights:
 •	Developed dozens of web, mobile, and IoT prototypes and proofs of concept within key domains like AI/ML, telemetry, metrics, security, testing, and automation.
