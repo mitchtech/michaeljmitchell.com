@@ -1,0 +1,95 @@
+/* Theme toggle button */
+.theme-toggle {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 1000;
+  background: none;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: #526d7a;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.theme-toggle:hover {
+  border-color: #526d7a;
+}
+
+/* Dark mode overrides for goa theme */
+[data-bs-theme="dark"] body {
+  background-color: #121212;
+}
+
+[data-bs-theme="dark"] a,
+[data-bs-theme="dark"] a:hover,
+[data-bs-theme="dark"] a:visited,
+[data-bs-theme="dark"] a:link {
+  color: rgb(229 229 231);
+}
+
+[data-bs-theme="dark"] .author {
+  color: #ccc;
+}
+
+[data-bs-theme="dark"] .content a {
+  color: rgb(239 100 100);
+}
+
+[data-bs-theme="dark"] div.content {
+  color: #b0b0b0;
+}
+
+[data-bs-theme="dark"] .intro {
+  color: rgb(180 180 189);
+}
+
+[data-bs-theme="dark"] .description {
+  color: rgb(180 180 189);
+}
+
+[data-bs-theme="dark"] .social a {
+  color: #7eb8cc;
+}
+
+[data-bs-theme="dark"] .menu-item {
+  color: rgb(239 100 100) !important;
+}
+
+[data-bs-theme="dark"] a.meta {
+  color: rgb(239 100 100);
+}
+
+[data-bs-theme="dark"] .category {
+  color: #c99 !important;
+}
+
+[data-bs-theme="dark"] .excerpt {
+  color: #aaa;
+}
+
+[data-bs-theme="dark"] .error a {
+  color: rgb(239 100 100);
+}
+
+[data-bs-theme="dark"] .error p {
+  color: #aaa;
+}
+
+[data-bs-theme="dark"] .theme-toggle {
+  color: #7eb8cc;
+}
+
+[data-bs-theme="dark"] .theme-toggle:hover {
+  border-color: #7eb8cc;
+}
+
+[data-bs-theme="dark"] .headshot {
+  border: 2px solid #333;
+}
