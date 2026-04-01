@@ -5,9 +5,9 @@ draft = false
 showpagemeta = false
 +++
 
-<!-- Last updated: 2026-03-28. Source: ~/patents/patents.xlsx -->
+<!-- Last updated: 2026-03-31. Source: ~/patents/patents.xlsx -->
 
-I am a named inventor on 33+ granted US patents and hold 14 additional published pending applications. The portfolio spans software testing, telecommunications, AI/ML, human-computer interaction, security, and sensor systems. Granted patents are organized by domain below.
+I am a named inventor on 33+ granted US patents and hold 9 additional published pending applications. The portfolio spans software testing, telecommunications, AI/ML, human-computer interaction, security, and sensor systems. Granted patents are organized by domain below.
 
 ## Software Testing & Automation
 
@@ -122,26 +122,11 @@ I am a named inventor on 33+ granted US patents and hold 14 additional published
 
 The following applications have been published but are awaiting examination.
 
-[**Mapping of User Interfaces Within Applications**](https://patents.google.com/patent/US20180088970A1/en)
-*US 2018/0088970 A1*
-
-[**Application Testing on Multiple Device Types**](https://patents.google.com/patent/US20190227909A1/en)
-*US 2019/0227909 A1*
-
-[**Verifying Meeting Attendance via a Meeting Expense and Verification Controller**](https://patents.google.com/patent/US20220270055A1/en)
-*US 2022/0270055 A1*
-
 [**Performance Profiler of Third Party Automations**](https://patents.google.com/patent/US20230053592A1/en)
 *US 2023/0053592 A1*
 
 [**Targeted Message Validation for Mobile Devices**](https://patents.google.com/patent/US20230180030A1/en)
 *US 2023/0180030 A1*
-
-[**Video Content Personalization Based on Viewer Data**](https://patents.google.com/patent/US20240073486A1/en)
-*US 2024/0073486 A1*
-
-[**Customized Image Generation**](https://patents.google.com/patent/US20240311873A1/en)
-*US 2024/0311873 A1*
 
 [**Physical State Change Authentication Methods**](https://patents.google.com/patent/US20240370539A1/en)
 *US 2024/0370539 A1*
