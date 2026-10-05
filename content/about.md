@@ -4,13 +4,19 @@ date = 2017-01-21T17:53:46-08:00
 draft = false
 +++
 
-Hello! I'm an experienced Software Engineer, Architect, and Technical Leader with a passion for innovation. With a PhD in Computer Science and as an inventor on 33+ US patents, I've been deeply involved in shaping innovative tech solutions. At T-Mobile, I co-founded the CX Lab and served as Tech Lead and Member of Technical Staff, blending technical expertise, research, and practical customer-centric solutions.
+I architect governed data platforms, and the automation that keeps them honest.
 
-Key Highlights:
-•	Developed dozens of web, mobile, and IoT prototypes and proofs of concept within key domains like AI/ML, telemetry, metrics, security, testing, and automation.
-•	Pioneered the Device Matrix, a key innovation in remote mobile device access and CI/CD/CT integration, reflecting my ability to turn complex ideas into practical solutions.
-•	Championed the adoption of open-source software, leading to significant cost savings of over $1M/year and significantly reducing dependency on external monitoring platforms.
-•	Managed and directed diverse teams of developers and contractors, both on-shore and off-shore, overseeing development, operations, and testing. 
-•	Centralized telemetry processes, enhancing efficiency and predictive capabilities, and played a pivotal role in developing corporate-wide standards in telemetry and metrics.
+At T-Mobile I lead architecture for the Enterprise Semantic Layer on Microsoft Fabric: one governed home for the company's metrics, sourced from Snowflake and Databricks. It is provisioned from configuration, secured with least-privilege and fail-closed access controls, described by data contracts, and watched by observability that is measured against explicit criteria rather than merely installed.
 
-I am passionate about leveraging technology to drive business growth, improve customer experiences, and foster a culture of continuous innovation.
+What I work on:
+
+- Semantic layer architecture and configuration-as-code provisioning (YAML registry, Terraform, Entra ID, Azure DevOps)
+- Identity, access, and row-level security that survives automation
+- Data contracts on the Open Data Contract Standard, treated as SLOs
+- Agentic engineering: agent skill harnesses and AI-assisted review held to the same gates as human code
+
+Before this I co-founded T-Mobile's CX Lab. There I built Device Matrix, a remote device testing and CI/CD platform that became mission-critical during COVID-19, replaced third-party tooling with open source to save over $1M a year, and led R&D across telemetry, security, and AI/ML.
+
+My roots are in security research: a Ph.D. from Florida State on protecting sensitive data from observation on mobile devices (USENIX Security 2015), plus work published at ACM CODASPY and ACSAC. I am a named inventor on 35 granted US patents across testing, wireless networks, machine learning, voice interfaces, and security.
+
+Off the clock: 3D printing, laser cutting, parametric CAD, home automation, and mountain biking in the PNW.
