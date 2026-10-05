@@ -4,11 +4,19 @@ date = 2017-01-21T17:53:46-08:00
 draft = false
 +++
 
-I architect governed data platforms. At T-Mobile that means the Enterprise Semantic Layer on Microsoft Fabric: one place for trusted metrics, provisioned from configuration, secured with least-privilege access, described by data contracts, and watched by observability that is measured against real criteria rather than merely installed.
+I architect governed data platforms, and the automation that keeps them honest.
 
-My path runs from security research (Ph.D., Florida State; USENIX Security, CODASPY, ACSAC) through startups to enterprise R&D, where I co-founded T-Mobile's CX Lab and built the Device Matrix remote testing platform. Along the way I picked up 35 granted US patents across testing, networks, ML, voice, and security.
+At T-Mobile I lead architecture for the Enterprise Semantic Layer on Microsoft Fabric: one governed home for the company's metrics, sourced from Snowflake and Databricks. It is provisioned from configuration, secured with least-privilege and fail-closed access controls, described by data contracts, and watched by observability that is measured against explicit criteria rather than merely installed.
 
-Lately I spend a lot of time on agentic engineering: making AI agents productive, then making them provably correct. I maintain a cross-runtime agent skill harness and hold agent output to the same review gates as human code.
+What I work on:
 
-Off the clock I build things in the garage: 3D printing, laser cutting, parametric CAD, home automation, and the occasional model rocket.
+- Semantic layer architecture and configuration-as-code provisioning (YAML registry, Terraform, Entra ID, Azure DevOps)
+- Identity, access, and row-level security that survives automation
+- Data contracts on the Open Data Contract Standard, treated as SLOs
+- Agentic engineering: agent skill harnesses and AI-assisted review held to the same gates as human code
 
+Before this I co-founded T-Mobile's CX Lab. There I built Device Matrix, a remote device testing and CI/CD platform that became mission-critical during COVID-19, replaced third-party tooling with open source to save over $1M a year, and led R&D across telemetry, security, and AI/ML.
+
+My roots are in security research: a Ph.D. from Florida State on protecting sensitive data from observation on mobile devices (USENIX Security 2015), plus work published at ACM CODASPY and ACSAC. I am a named inventor on 35 granted US patents across testing, wireless networks, machine learning, voice interfaces, and security.
+
+Off the clock: 3D printing, laser cutting, parametric CAD, home automation, and mountain biking in the PNW.
