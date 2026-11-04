@@ -15,3 +15,11 @@ Current focus (T-Mobile, Enterprise Data COE):
 - Identity & access management: least privilege, row-level security, service principals, OAuth governance at enterprise scale
 - Config-as-code: YAML registries, Terraform, Azure DevOps/GitLab CI/CD, Entra ID provisioning automation
 - Data contracts (ODCS), automated data quality, and contract-driven observability
+
+Before this:
+
+- Co-founded T-Mobile's CX Lab and built Device Matrix, a remote device testing and CI/CD platform that became mission-critical during COVID-19; replaced third-party tooling with open source to save over $1M a year
+- Ph.D. in computer science, Florida State: mobile security and privacy research (USENIX Security 2015, ACM CODASPY, ACSAC)
+- Named inventor on 35 granted US patents across testing, wireless networks, machine learning, voice interfaces, and security
+
+Off the clock: 3D printing, laser cutting, home automation, and mountain biking in the PNW.
